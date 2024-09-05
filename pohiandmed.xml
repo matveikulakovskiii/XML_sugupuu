@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sugupuu>
+	<inimene synniaasta="1929">
+		<nimi>Ljuba</nimi>
+		<synniaasta>1929</synniaasta>
+		<synnikoht>Soviet Union</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1976">
+				<nimi>Alja</nimi>
+				<synniaasta>1976</synniaasta>
+				<synnikoht>Soviet Union</synnikoht>
+				<lapsed>
+					<inimene synniaasta="2006">
+						<nimi>Matvei</nimi>
+						<synniaasta>2006</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimene>
+					<inimene synniaasta="1996">
+						<nimi>Misha</nimi>
+						<synniaasta>1996</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimene>
+					<inimene synniaasta="2013">
+						<nimi>Rodion</nimi>
+						<synniaasta>2013</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimene>
+				</lapsed>
+			</inimene>
+			<inimene synniaasta="1976">
+				<nimi>Ira</nimi>
+				<synniaasta>1976</synniaasta>
+				<synnikoht>Soviet Union</synnikoht>
+				<lapsed>
+					<inimene synniaasta="1998">
+						<nimi>Martina</nimi>
+						<synniaasta>1998</synniaasta>
+						<synnikoht>Shortens</synnikoht>
+					</inimene>
+					<inimene synniaasta="2000">
+						<nimi>Karolina</nimi>
+						<synniaasta>2000</synniaasta>
+						<synnikoht>Shortens</synnikoht>
+					</inimene>
+				</lapsed>
+			</inimene>
+		</lapsed>
+	</inimene>
+	<inimene synniaasta="1927">
+		<nimi>Shenja</nimi>
+		<synniaasta>1927</synniaasta>
+		<synnikoht>Soviet Union</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1972">
+				<nimi>Aleksei</nimi>
+				<synniaasta>1972</synniaasta>
+				<synnikoht>Soviet Union</synnikoht>
+			</inimene>
+			<inimene synniaasta="1962">
+				<nimi>Marina</nimi>
+				<synniaasta>1962</synniaasta>
+				<synnikoht>Soviet Union</synnikoht>
+				<lapsed>
+					<inimene synniaasta="2003">
+						<nimi>Danja</nimi>
+						<synniaasta>2003</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimene>
+					<inimene synniaasta="1994">
+						<nimi>Julja</nimi>
+						<synniaasta>1994</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+						<lapsed>
+							<inimene synniaasta="2007">
+								<nimi>Prohor</nimi>
+								<synniaasta>2007</synniaasta>
+								<synnikoht>Tallinn</synnikoht>
+							</inimene>
+							<inimene synniaasta="2015">
+								<nimi>Alisa</nimi>
+								<synniaasta>2015</synniaasta>
+								<synnikoht>Tallinn</synnikoht>
+							</inimene>
+						</lapsed>
+					</inimene>
+				</lapsed>
+			</inimene>
+		</lapsed>
+	</inimene>
+</sugupuu>
